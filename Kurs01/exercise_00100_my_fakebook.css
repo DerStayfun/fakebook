@@ -1,0 +1,13 @@
+.image {
+    padding: 10px;
+    border: 8px black solid;
+    margin: 0 auto;
+    opacity: 0.6
+}
+
+
+.image:hover {
+  border: 10px black double;
+  transition-duration: 2s;
+  opacity: 1
+}
