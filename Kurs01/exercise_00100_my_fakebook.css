@@ -1,7 +1,8 @@
 .image {
-    padding: 10px;
     border: 8px black solid;
-    margin: 0 auto;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
     opacity: 0.6
 }
 
